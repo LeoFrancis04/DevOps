@@ -1,4 +1,4 @@
-ame: Basic Python CI Pipeline
+name: Basic Python CI Pipeline
 
 on:
   push:
