@@ -24,7 +24,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install uv
-        puv ip install --system pytest
+        uv pip install --system pytest
 
     - name: Run Tests
       run: |
